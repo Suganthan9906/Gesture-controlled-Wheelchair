@@ -95,10 +95,3 @@ Status: Moving Forward
 - **Smart Home Integration** for automated wheelchair control.
 
 
-## License
-This project is **open-source** under the **MIT License**. Feel free to modify and contribute.
-
-## Contact & Support
-For any queries, reach out via **GitHub Issues** or email at **[your.email@example.com](mailto:your.email@example.com)**.
-
-🚀 **Let’s innovate for accessibility!** 🦽🔥
